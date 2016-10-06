@@ -1,0 +1,2894 @@
+{
+    "search_metadata": {
+        "completed_in": 0.06,
+        "count": 20,
+        "max_id": 784080856629534720,
+        "max_id_str": "784080856629534720",
+        "next_results": "?max_id=783630344524300287&q=%23smithcollege&lang=en&count=20&include_entities=1&result_type=recent",
+        "query": "%23smithcollege",
+        "refresh_url": "?since_id=784080856629534720&q=%23smithcollege&lang=en&result_type=recent&include_entities=1",
+        "since_id": 0,
+        "since_id_str": "0"
+    },
+    "statuses": [
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Oct 06 17:20:18 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            38,
+                            51
+                        ],
+                        "text": "UMassAmherst"
+                    },
+                    {
+                        "indices": [
+                            52,
+                            65
+                        ],
+                        "text": "SmithCollege"
+                    },
+                    {
+                        "indices": [
+                            66,
+                            79
+                        ],
+                        "text": "MountHolyoke"
+                    },
+                    {
+                        "indices": [
+                            97,
+                            107
+                        ],
+                        "text": "WesternMA"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 784080856629534720,
+            "id_str": "784080856629534720",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+            "text": "SAT's SCHEDULE: \n\u2022 745a Boston \u2794 930a #UMassAmherst #SmithCollege #MountHolyoke ($22.99) \n\u2022 930a #WesternMA \u2794 1215p Boston ($23.99)",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Feb 22 13:38:47 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Skip the bus! VanGO is an express shuttle running between UMass Amherst, Smith College, and Mt. Holyoke College \u2794 Boston in under 2 hours & $25 or LESS",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "vangoexpress.com",
+                                "expanded_url": "http://www.vangoexpress.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/NX9KMjLktA"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 6804,
+                "follow_request_sent": false,
+                "followers_count": 144,
+                "following": false,
+                "friends_count": 110,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 1208513600,
+                "id_str": "1208513600",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 14,
+                "location": "Boston, MA",
+                "name": "VanGO",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/801719216/3f682424ca6460f9370b9b7cdee63eb9.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/801719216/3f682424ca6460f9370b9b7cdee63eb9.jpeg",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1208513600/1441733198",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/743226149715779584/um8373UN_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/743226149715779584/um8373UN_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "VanGOexpress",
+                "statuses_count": 2075,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": "http://t.co/NX9KMjLktA",
+                "utc_offset": -14400,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Oct 06 14:32:04 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            55,
+                            68
+                        ],
+                        "text": "smithcollege"
+                    },
+                    {
+                        "indices": [
+                            69,
+                            79
+                        ],
+                        "text": "tradition"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "instagram.com/p/BLOZTYjA8nc/",
+                        "expanded_url": "https://www.instagram.com/p/BLOZTYjA8nc/",
+                        "indices": [
+                            80,
+                            103
+                        ],
+                        "url": "https://t.co/ICUyXSC2qg"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 784038517957681152,
+            "id_str": "784038517957681152",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "text": "Meg and Cam enjoyed a hike on mountain day \ud83c\udfd4 yesterday #smithcollege #tradition https://t.co/ICUyXSC2qg",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Sep 01 19:17:25 +0000 2014",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "The Official Twitter account for the Smith College Women's Basketball Team - Facebook (Smith College Basketball) Instagram - (smithbasketball)",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "smithpioneers.com",
+                                "expanded_url": "http://smithpioneers.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/d3q4UvXUaS"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 20,
+                "follow_request_sent": false,
+                "followers_count": 106,
+                "following": false,
+                "friends_count": 142,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 2784573368,
+                "id_str": "2784573368",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 2,
+                "location": "Northampton, MA",
+                "name": "Smith Basketball",
+                "notifications": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2784573368/1474468256",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/762731825819217920/MSu4OgpW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/762731825819217920/MSu4OgpW_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "SC_BBall",
+                "statuses_count": 141,
+                "time_zone": null,
+                "url": "http://t.co/d3q4UvXUaS",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Oct 06 14:11:34 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            106,
+                            115
+                        ],
+                        "text": "homeless"
+                    },
+                    {
+                        "indices": [
+                            116,
+                            129
+                        ],
+                        "text": "smithcollege"
+                    },
+                    {
+                        "indices": [
+                            130,
+                            137
+                        ],
+                        "text": "Memoir"
+                    },
+                    {
+                        "indices": [
+                            138,
+                            144
+                        ],
+                        "text": "DVpit"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 784033358783406080,
+            "id_str": "784033358783406080",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Unemployed &amp; homeless, I was the only Smith alum sleeping at the shelter. HEXBREAKER: Time Starts Now #homeless #smithcollege #Memoir #DVpit",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Mar 29 01:06:00 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "I'm 51, unemployed & live with my parents. They can drop me @ the mall if you want to hang out. Or you could read my blog. Mall is good, though. #binders",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "hexbreaker9.wordpress.com",
+                                "expanded_url": "http://hexbreaker9.wordpress.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/QDZi4gQAvF"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 284,
+                "follow_request_sent": false,
+                "followers_count": 71,
+                "following": false,
+                "friends_count": 171,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1312209793,
+                "id_str": "1312209793",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 6,
+                "location": "the Temple of Love",
+                "name": "Maryhope Tobin",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1312209793/1471636672",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/766679685346516992/Ty2h5kY5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/766679685346516992/Ty2h5kY5_normal.jpg",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "MaryhopeT",
+                "statuses_count": 539,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": "https://t.co/QDZi4gQAvF",
+                "utc_offset": -14400,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Oct 06 00:50:16 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            12,
+                            31
+                        ],
+                        "text": "PresidentMcCartney"
+                    },
+                    {
+                        "indices": [
+                            32,
+                            45
+                        ],
+                        "text": "SmithCollege"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/fKPvttIo5w",
+                        "expanded_url": "https://twitter.com/AlisonJRooney/status/783831708139487232/photo/1",
+                        "id": 783831699268534273,
+                        "id_str": "783831699268534273",
+                        "indices": [
+                            80,
+                            103
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuC6xw6XgAE1VR1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuC6xw6XgAE1VR1.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "resize": "fit",
+                                "w": 1536
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 900
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 510
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/fKPvttIo5w"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/fKPvttIo5w",
+                        "expanded_url": "https://twitter.com/AlisonJRooney/status/783831708139487232/photo/1",
+                        "id": 783831699268534273,
+                        "id_str": "783831699268534273",
+                        "indices": [
+                            80,
+                            103
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuC6xw6XgAE1VR1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuC6xw6XgAE1VR1.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "resize": "fit",
+                                "w": 1536
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 900
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 510
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/fKPvttIo5w"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 783831708139487232,
+            "id_str": "783831708139487232",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Huge fan of #PresidentMcCartney #SmithCollege we are lucky to have her lead us! https://t.co/fKPvttIo5w",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Mar 20 19:51:59 +0000 2010",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Client relationship lead #analytics #iot #capitalmarkets #finserv #digital #Managementconsultant. #fintech @Columbia_biz",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 1452,
+                "follow_request_sent": false,
+                "followers_count": 684,
+                "following": false,
+                "friends_count": 2270,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 124848661,
+                "id_str": "124848661",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 70,
+                "location": "New York, NY, USA",
+                "name": "Alison J Rooney",
+                "notifications": false,
+                "profile_background_color": "510354",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110410278/113d42bcdbd78bb47398244215c0febb.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110410278/113d42bcdbd78bb47398244215c0febb.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/124848661/1466793000",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1218213172/My_Character_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218213172/My_Character_normal.jpg",
+                "profile_link_color": "CA076F",
+                "profile_sidebar_border_color": "035451",
+                "profile_sidebar_fill_color": "032E54",
+                "profile_text_color": "8F054F",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "AlisonJRooney",
+                "statuses_count": 7117,
+                "time_zone": "Mid-Atlantic",
+                "url": null,
+                "utc_offset": -7200,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Oct 06 00:44:33 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            6,
+                            23
+                        ],
+                        "text": "smithmountainday"
+                    },
+                    {
+                        "indices": [
+                            37,
+                            47
+                        ],
+                        "text": "President"
+                    },
+                    {
+                        "indices": [
+                            48,
+                            61
+                        ],
+                        "text": "SmithCollege"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 39511073,
+                        "id_str": "39511073",
+                        "indices": [
+                            25,
+                            35
+                        ],
+                        "name": "Janine Hussey",
+                        "screen_name": "roundhill"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 783830268834635776,
+            "id_str": "783830268834635776",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Great #smithmountainday  @RoundHill. #President #SmithCollege",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Mar 20 19:51:59 +0000 2010",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Client relationship lead #analytics #iot #capitalmarkets #finserv #digital #Managementconsultant. #fintech @Columbia_biz",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 1452,
+                "follow_request_sent": false,
+                "followers_count": 684,
+                "following": false,
+                "friends_count": 2270,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 124848661,
+                "id_str": "124848661",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 70,
+                "location": "New York, NY, USA",
+                "name": "Alison J Rooney",
+                "notifications": false,
+                "profile_background_color": "510354",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110410278/113d42bcdbd78bb47398244215c0febb.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110410278/113d42bcdbd78bb47398244215c0febb.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/124848661/1466793000",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1218213172/My_Character_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218213172/My_Character_normal.jpg",
+                "profile_link_color": "CA076F",
+                "profile_sidebar_border_color": "035451",
+                "profile_sidebar_fill_color": "032E54",
+                "profile_text_color": "8F054F",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "AlisonJRooney",
+                "statuses_count": 7117,
+                "time_zone": "Mid-Atlantic",
+                "url": null,
+                "utc_offset": -7200,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 23:00:18 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            74,
+                            86
+                        ],
+                        "text": "BabyBeckham"
+                    },
+                    {
+                        "indices": [
+                            87,
+                            100
+                        ],
+                        "text": "smithcollege"
+                    },
+                    {
+                        "indices": [
+                            101,
+                            113
+                        ],
+                        "text": "mountainday"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/NDeuPkuYcA",
+                        "expanded_url": "https://twitter.com/JTShurtle/status/783804032792072197/photo/1",
+                        "id": 783804014370627584,
+                        "id_str": "783804014370627584",
+                        "indices": [
+                            114,
+                            137
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuChmSoWIAAaNpA.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuChmSoWIAAaNpA.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "resize": "fit",
+                                "w": 1638
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 960
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 544
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/NDeuPkuYcA"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 17025399,
+                        "id_str": "17025399",
+                        "indices": [
+                            17,
+                            30
+                        ],
+                        "name": "Smith College Tweets",
+                        "screen_name": "smithcollege"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/NDeuPkuYcA",
+                        "expanded_url": "https://twitter.com/JTShurtle/status/783804032792072197/photo/1",
+                        "id": 783804014370627584,
+                        "id_str": "783804014370627584",
+                        "indices": [
+                            114,
+                            137
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuChmSoWIAAaNpA.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuChmSoWIAAaNpA.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "resize": "fit",
+                                "w": 1638
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 960
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 544
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/NDeuPkuYcA"
+                    }
+                ]
+            },
+            "favorite_count": 4,
+            "favorited": false,
+            "geo": null,
+            "id": 783804032792072197,
+            "id_str": "783804032792072197",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "Play time on the @smithcollege campus because today was Mountain Day! \ud83c\udfd4\ud83c\udf41\ud83d\ude4c #BabyBeckham #smithcollege #mountainday https://t.co/NDeuPkuYcA",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jul 15 20:24:22 +0000 2011",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "PhD Candidate in Gerontology, Mom, Portuguese, Boston Girl, Smithie, Proud Supporter of Women's Sports. Go hard or go home, always.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 3349,
+                "follow_request_sent": false,
+                "followers_count": 166,
+                "following": false,
+                "friends_count": 331,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 336145316,
+                "id_str": "336145316",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 6,
+                "location": "Northampton, MA",
+                "name": "Jane T-R",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/336145316/1472613487",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/770822686901755904/XgAhsYlD_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/770822686901755904/XgAhsYlD_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "JTShurtle",
+                "statuses_count": 1049,
+                "time_zone": null,
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 21:35:59 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            34,
+                            47
+                        ],
+                        "text": "smithcollege"
+                    },
+                    {
+                        "indices": [
+                            48,
+                            60
+                        ],
+                        "text": "mountainday"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "instagram.com/p/BLMlBQvBR9TP\u2026",
+                        "expanded_url": "https://www.instagram.com/p/BLMlBQvBR9TPBLugrDhQrxPnBT0xLgS6qSLtxo0/",
+                        "indices": [
+                            62,
+                            85
+                        ],
+                        "url": "https://t.co/ssqadhTkkm"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 783782814026113025,
+            "id_str": "783782814026113025",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "text": "Celebrating Mountain Day in style!#smithcollege #mountainday\u2026 https://t.co/ssqadhTkkm",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Apr 01 19:20:12 +0000 2009",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "All thoughts my own.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 16,
+                "follow_request_sent": false,
+                "followers_count": 22,
+                "following": false,
+                "friends_count": 159,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 28172136,
+                "id_str": "28172136",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "",
+                "name": "Lydia Rainville",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/564950363745177602/76LdryAQ_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/564950363745177602/76LdryAQ_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "LRoseRain",
+                "statuses_count": 15,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": null,
+                "utc_offset": -14400,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 20:47:57 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            16,
+                            28
+                        ],
+                        "text": "mountainday"
+                    },
+                    {
+                        "indices": [
+                            32,
+                            45
+                        ],
+                        "text": "SmithCollege"
+                    },
+                    {
+                        "indices": [
+                            47,
+                            51
+                        ],
+                        "text": "pdx"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/clm7CQOtWX",
+                        "expanded_url": "https://twitter.com/inlifeandlove/status/783770725035368448/photo/1",
+                        "id": 783770684690276352,
+                        "id_str": "783770684690276352",
+                        "indices": [
+                            52,
+                            75
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuCDSP5UIAAgQhs.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuCDSP5UIAAgQhs.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1907,
+                                "resize": "fit",
+                                "w": 1907
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/clm7CQOtWX"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/clm7CQOtWX",
+                        "expanded_url": "https://twitter.com/inlifeandlove/status/783770725035368448/photo/1",
+                        "id": 783770684690276352,
+                        "id_str": "783770684690276352",
+                        "indices": [
+                            52,
+                            75
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuCDSP5UIAAgQhs.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuCDSP5UIAAgQhs.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1907,
+                                "resize": "fit",
+                                "w": 1907
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/clm7CQOtWX"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 783770725035368448,
+            "id_str": "783770725035368448",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Happy Fall! And #mountainday at #SmithCollege. #pdx https://t.co/clm7CQOtWX",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jun 26 21:09:48 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "I study experience and potential. I teach anyone's meditation and other focusing/alignment techniques. I like a good game, mornings, innovation, and coffee.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "inlifeandlove.com",
+                                "expanded_url": "http://inlifeandlove.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/l8KSAFbKji"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 28415,
+                "follow_request_sent": false,
+                "followers_count": 1311,
+                "following": false,
+                "friends_count": 974,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 51226999,
+                "id_str": "51226999",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 57,
+                "location": "",
+                "name": "Coyote Karrick",
+                "notifications": false,
+                "profile_background_color": "EDECE9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/51226999/1440906197",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/685934029783220224/PlSbjQZt_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/685934029783220224/PlSbjQZt_normal.jpg",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "inlifeandlove",
+                "statuses_count": 22229,
+                "time_zone": "Pacific Time (US & Canada)",
+                "url": "https://t.co/l8KSAFbKji",
+                "utc_offset": -25200,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 19:21:18 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            27,
+                            40
+                        ],
+                        "text": "smithcollege"
+                    },
+                    {
+                        "indices": [
+                            41,
+                            50
+                        ],
+                        "text": "smithies"
+                    },
+                    {
+                        "indices": [
+                            51,
+                            59
+                        ],
+                        "text": "OSElove"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/KplHJQlPIV",
+                        "expanded_url": "https://twitter.com/jlee1096/status/783748921495580673/photo/1",
+                        "id": 783748911722852352,
+                        "id_str": "783748911722852352",
+                        "indices": [
+                            60,
+                            83
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuBve5RW8AACivC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuBve5RW8AACivC.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 960,
+                                "resize": "fit",
+                                "w": 1280
+                            },
+                            "medium": {
+                                "h": 900,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 510,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/KplHJQlPIV"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/KplHJQlPIV",
+                        "expanded_url": "https://twitter.com/jlee1096/status/783748921495580673/photo/1",
+                        "id": 783748911722852352,
+                        "id_str": "783748911722852352",
+                        "indices": [
+                            60,
+                            83
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuBve5RW8AACivC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuBve5RW8AACivC.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 960,
+                                "resize": "fit",
+                                "w": 1280
+                            },
+                            "medium": {
+                                "h": 900,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 510,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/KplHJQlPIV"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/KplHJQlPIV",
+                        "expanded_url": "https://twitter.com/jlee1096/status/783748921495580673/photo/1",
+                        "id": 783748911760564226,
+                        "id_str": "783748911760564226",
+                        "indices": [
+                            60,
+                            83
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuBve5aWYAIAkJl.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuBve5aWYAIAkJl.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1227,
+                                "resize": "fit",
+                                "w": 749
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 733
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 415
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/KplHJQlPIV"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/KplHJQlPIV",
+                        "expanded_url": "https://twitter.com/jlee1096/status/783748921495580673/photo/1",
+                        "id": 783748911668264961,
+                        "id_str": "783748911668264961",
+                        "indices": [
+                            60,
+                            83
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuBve5EWAAEYsSN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuBve5EWAAEYsSN.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1280,
+                                "resize": "fit",
+                                "w": 960
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 900
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 510
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/KplHJQlPIV"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/KplHJQlPIV",
+                        "expanded_url": "https://twitter.com/jlee1096/status/783748921495580673/photo/1",
+                        "id": 783748911668289536,
+                        "id_str": "783748911668289536",
+                        "indices": [
+                            60,
+                            83
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuBve5EWYAAThVw.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuBve5EWYAAThVw.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1536,
+                                "resize": "fit",
+                                "w": 2048
+                            },
+                            "medium": {
+                                "h": 900,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 510,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/KplHJQlPIV"
+                    }
+                ]
+            },
+            "favorite_count": 5,
+            "favorited": false,
+            "geo": null,
+            "id": 783748921495580673,
+            "id_str": "783748921495580673",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "I. Love. Mountain. Day. \ud83d\ude0d\ud83d\ude0d #smithcollege #smithies #OSElove https://t.co/KplHJQlPIV",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue May 28 21:07:57 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 4614,
+                "follow_request_sent": false,
+                "followers_count": 126,
+                "following": false,
+                "friends_count": 11,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1465696148,
+                "id_str": "1465696148",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 4,
+                "location": "",
+                "name": "Jenna",
+                "notifications": false,
+                "profile_background_color": "FFCC4D",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465696148/1472879301",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/773895471572090880/KdhKtnVH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/773895471572090880/KdhKtnVH_normal.jpg",
+                "profile_link_color": "4A913C",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "jlee1096",
+                "statuses_count": 1708,
+                "time_zone": null,
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 18:59:59 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            49,
+                            62
+                        ],
+                        "text": "Smithcollege"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 783743556963926016,
+            "id_str": "783743556963926016",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "I had my own mountain day. ie working from home. #Smithcollege",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Jan 14 18:24:10 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Educator| Consultant|Entrepreneur|",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "alstar.co.ke",
+                                "expanded_url": "http://www.alstar.co.ke",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/HTBo66lnmI"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 42,
+                "follow_request_sent": false,
+                "followers_count": 162,
+                "following": false,
+                "friends_count": 391,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1089764874,
+                "id_str": "1089764874",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 1,
+                "location": "Kenya",
+                "name": "Marusoi IC",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/581871002164006912/0XtkKFF9_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/581871002164006912/0XtkKFF9_normal.jpg",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "imarusoi",
+                "statuses_count": 454,
+                "time_zone": "Pacific Time (US & Canada)",
+                "url": "http://t.co/HTBo66lnmI",
+                "utc_offset": -25200,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 17:41:18 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            44,
+                            57
+                        ],
+                        "text": "smithcollege"
+                    },
+                    {
+                        "indices": [
+                            58,
+                            68
+                        ],
+                        "text": "tradition"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "instagram.com/p/BLMKKdwjvYI/",
+                        "expanded_url": "https://www.instagram.com/p/BLMKKdwjvYI/",
+                        "indices": [
+                            69,
+                            92
+                        ],
+                        "url": "https://t.co/pthqJP6Rw8"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 783723752680984577,
+            "id_str": "783723752680984577",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "text": "Junior Sam took advantage of mountain day \u26f0 #smithcollege #tradition https://t.co/pthqJP6Rw8",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Sep 01 19:17:25 +0000 2014",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "The Official Twitter account for the Smith College Women's Basketball Team - Facebook (Smith College Basketball) Instagram - (smithbasketball)",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "smithpioneers.com",
+                                "expanded_url": "http://smithpioneers.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/d3q4UvXUaS"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 20,
+                "follow_request_sent": false,
+                "followers_count": 106,
+                "following": false,
+                "friends_count": 142,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 2784573368,
+                "id_str": "2784573368",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 2,
+                "location": "Northampton, MA",
+                "name": "Smith Basketball",
+                "notifications": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2784573368/1474468256",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/762731825819217920/MSu4OgpW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/762731825819217920/MSu4OgpW_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "SC_BBall",
+                "statuses_count": 141,
+                "time_zone": null,
+                "url": "http://t.co/d3q4UvXUaS",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 16:15:00 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            25,
+                            37
+                        ],
+                        "text": "MountainDay"
+                    },
+                    {
+                        "indices": [
+                            61,
+                            74
+                        ],
+                        "text": "smithcollege"
+                    },
+                    {
+                        "indices": [
+                            75,
+                            80
+                        ],
+                        "text": "fall"
+                    },
+                    {
+                        "indices": [
+                            81,
+                            90
+                        ],
+                        "text": "Smithies"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/4D0dFdvYNs",
+                        "expanded_url": "https://twitter.com/smith_ose/status/783702035535433728/photo/1",
+                        "id": 783701988676689920,
+                        "id_str": "783701988676689920",
+                        "indices": [
+                            91,
+                            114
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuBEznTXYAAgcKL.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuBEznTXYAAgcKL.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1536,
+                                "resize": "fit",
+                                "w": 2048
+                            },
+                            "medium": {
+                                "h": 900,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 510,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/4D0dFdvYNs"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/4D0dFdvYNs",
+                        "expanded_url": "https://twitter.com/smith_ose/status/783702035535433728/photo/1",
+                        "id": 783701988676689920,
+                        "id_str": "783701988676689920",
+                        "indices": [
+                            91,
+                            114
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuBEznTXYAAgcKL.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuBEznTXYAAgcKL.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1536,
+                                "resize": "fit",
+                                "w": 2048
+                            },
+                            "medium": {
+                                "h": 900,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 510,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/4D0dFdvYNs"
+                    }
+                ]
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 783702035535433728,
+            "id_str": "783702035535433728",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Washburn eating lunch on #MountainDay \nHappy Mountain Day!!! #smithcollege #fall #Smithies https://t.co/4D0dFdvYNs",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jan 27 18:01:03 +0000 2012",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "The OSE is committed to assisting students make intentional decisions about their in and out of class involvement for a more meaningful Smith experience",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "smith.edu/ose",
+                                "expanded_url": "http://www.smith.edu/ose",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/JVoAyzgCGw"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 41,
+                "follow_request_sent": false,
+                "followers_count": 283,
+                "following": false,
+                "friends_count": 74,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 476030596,
+                "id_str": "476030596",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 4,
+                "location": "Smith College Campus Center",
+                "name": "Smith College OSE",
+                "notifications": false,
+                "profile_background_color": "B2DFDA",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/509529330/Screen_Shot_2012-04-10_at_2.30.33_PM.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/509529330/Screen_Shot_2012-04-10_at_2.30.33_PM.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/476030596/1359641537",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/782003075003318272/h6xvQdL-_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/782003075003318272/h6xvQdL-_normal.jpg",
+                "profile_link_color": "93A644",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "smith_ose",
+                "statuses_count": 647,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": "https://t.co/JVoAyzgCGw",
+                "utc_offset": -14400,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 16:12:22 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            6,
+                            18
+                        ],
+                        "text": "MountainDay"
+                    },
+                    {
+                        "indices": [
+                            21,
+                            34
+                        ],
+                        "text": "smithcollege"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 783701373623885824,
+            "id_str": "783701373623885824",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Happy #MountainDay \u26f0\ud83c\udf41#smithcollege",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Sep 12 16:18:56 +0000 2008",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "International health | history | food",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "nibblingnomad.com",
+                                "expanded_url": "http://www.nibblingnomad.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/gtwNvR4rxs"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 1659,
+                "follow_request_sent": false,
+                "followers_count": 58,
+                "following": false,
+                "friends_count": 174,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 16258419,
+                "id_str": "16258419",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 12,
+                "location": "Liberia | DC ",
+                "name": "Katy",
+                "notifications": false,
+                "profile_background_color": "BADFCD",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/16258419/1400960991",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/564335314/Photo_3_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/564335314/Photo_3_normal.jpg",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "F2E195",
+                "profile_sidebar_fill_color": "FFF7CC",
+                "profile_text_color": "0C3E53",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "ktmioko",
+                "statuses_count": 3594,
+                "time_zone": "Brisbane",
+                "url": "https://t.co/gtwNvR4rxs",
+                "utc_offset": 36000,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 15:53:02 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            58,
+                            71
+                        ],
+                        "text": "smithcollege"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 1056076428,
+                        "id_str": "1056076428",
+                        "indices": [
+                            10,
+                            24
+                        ],
+                        "name": "Kathleen McCartney",
+                        "screen_name": "presmccartney"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 783696507098759169,
+            "id_str": "783696507098759169",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Thank you @presmccartney for a beautiful Mountain Day!!!! #smithcollege",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu May 19 15:41:20 +0000 2016",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Smith College Class of 2018. Philosophy & SWG. Maine People's Alliance Intern. Opinions expressed here are my own",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 41,
+                "follow_request_sent": false,
+                "followers_count": 27,
+                "following": false,
+                "friends_count": 49,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 733321650649890817,
+                "id_str": "733321650649890817",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "Portland, ME",
+                "name": "Elizabeth Kneebone",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/733321650649890817/1463675538",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/763069770753245184/0p_D7loT_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/763069770753245184/0p_D7loT_normal.jpg",
+                "profile_link_color": "F58EA8",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "LizKneebone_",
+                "statuses_count": 70,
+                "time_zone": null,
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 15:20:21 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            50,
+                            63
+                        ],
+                        "text": "smithcollege"
+                    },
+                    {
+                        "indices": [
+                            64,
+                            74
+                        ],
+                        "text": "tradition"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "instagram.com/p/BLL6CHTjRJ6/",
+                        "expanded_url": "https://www.instagram.com/p/BLL6CHTjRJ6/",
+                        "indices": [
+                            75,
+                            98
+                        ],
+                        "url": "https://t.co/NFWtTXvZfr"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 783688282089648130,
+            "id_str": "783688282089648130",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "text": "Some of the team enjoying brunch on mountain day \u26f0#smithcollege #tradition https://t.co/NFWtTXvZfr",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Sep 01 19:17:25 +0000 2014",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "The Official Twitter account for the Smith College Women's Basketball Team - Facebook (Smith College Basketball) Instagram - (smithbasketball)",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "smithpioneers.com",
+                                "expanded_url": "http://smithpioneers.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/d3q4UvXUaS"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 20,
+                "follow_request_sent": false,
+                "followers_count": 106,
+                "following": false,
+                "friends_count": 142,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 2784573368,
+                "id_str": "2784573368",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 2,
+                "location": "Northampton, MA",
+                "name": "Smith Basketball",
+                "notifications": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2784573368/1474468256",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/762731825819217920/MSu4OgpW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/762731825819217920/MSu4OgpW_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "SC_BBall",
+                "statuses_count": 141,
+                "time_zone": null,
+                "url": "http://t.co/d3q4UvXUaS",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 15:14:55 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            36,
+                            48
+                        ],
+                        "text": "MountainDay"
+                    },
+                    {
+                        "indices": [
+                            49,
+                            62
+                        ],
+                        "text": "SmithCollege"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/gwEBy1qwn8",
+                        "expanded_url": "https://twitter.com/SmithCEEDS/status/783686915681845248/photo/1",
+                        "id": 783686729886728192,
+                        "id_str": "783686729886728192",
+                        "indices": [
+                            63,
+                            86
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuA27b4WAAAYbfH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuA27b4WAAAYbfH.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1536,
+                                "resize": "fit",
+                                "w": 2048
+                            },
+                            "medium": {
+                                "h": 900,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 510,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/gwEBy1qwn8"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/gwEBy1qwn8",
+                        "expanded_url": "https://twitter.com/SmithCEEDS/status/783686915681845248/photo/1",
+                        "id": 783686729886728192,
+                        "id_str": "783686729886728192",
+                        "indices": [
+                            63,
+                            86
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuA27b4WAAAYbfH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuA27b4WAAAYbfH.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1536,
+                                "resize": "fit",
+                                "w": 2048
+                            },
+                            "medium": {
+                                "h": 900,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 510,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/gwEBy1qwn8"
+                    }
+                ]
+            },
+            "favorite_count": 6,
+            "favorited": false,
+            "geo": null,
+            "id": 783686915681845248,
+            "id_str": "783686915681845248",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Ready and waiting for our students! #MountainDay #SmithCollege https://t.co/gwEBy1qwn8",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Jun 29 14:39:18 +0000 2011",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "CEEDS exists with one purpose- to graduate women who excel at integrating knowledge disciplines in support of environmental decisions and action.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "smith.edu/green/about.php",
+                                "expanded_url": "http://www.smith.edu/green/about.php",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/Iq8Op0g5oh"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 103,
+                "follow_request_sent": false,
+                "followers_count": 274,
+                "following": false,
+                "friends_count": 164,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 326190693,
+                "id_str": "326190693",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 9,
+                "location": "Northampton, MA",
+                "name": "Smith College CEEDS",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1420288132/Seedlings_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1420288132/Seedlings_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "SmithCEEDS",
+                "statuses_count": 537,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": "http://t.co/Iq8Op0g5oh",
+                "utc_offset": -14400,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 15:13:43 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            58,
+                            71
+                        ],
+                        "text": "smithcollege"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/EkMf9jBmeG",
+                        "expanded_url": "https://twitter.com/nanslay/status/783686615269081088/photo/1",
+                        "id": 783686527633219586,
+                        "id_str": "783686527633219586",
+                        "indices": [
+                            72,
+                            95
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuA2vqbWYAIrYUt.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuA2vqbWYAIrYUt.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1536,
+                                "resize": "fit",
+                                "w": 2048
+                            },
+                            "medium": {
+                                "h": 900,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 510,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/EkMf9jBmeG"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 1056076428,
+                        "id_str": "1056076428",
+                        "indices": [
+                            33,
+                            47
+                        ],
+                        "name": "Kathleen McCartney",
+                        "screen_name": "presmccartney"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/EkMf9jBmeG",
+                        "expanded_url": "https://twitter.com/nanslay/status/783686615269081088/photo/1",
+                        "id": 783686527633219586,
+                        "id_str": "783686527633219586",
+                        "indices": [
+                            72,
+                            95
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CuA2vqbWYAIrYUt.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CuA2vqbWYAIrYUt.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1536,
+                                "resize": "fit",
+                                "w": 2048
+                            },
+                            "medium": {
+                                "h": 900,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 510,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/EkMf9jBmeG"
+                    }
+                ]
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 783686615269081088,
+            "id_str": "783686615269081088",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Pre-Mountain day festivities at .@presmccartney 's house! #smithcollege https://t.co/EkMf9jBmeG",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Apr 27 18:26:02 +0000 2014",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Ok ladies, now let's get in formation",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 4312,
+                "follow_request_sent": false,
+                "followers_count": 153,
+                "following": false,
+                "friends_count": 215,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 2466477985,
+                "id_str": "2466477985",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 1,
+                "location": "",
+                "name": "m a u r i c e",
+                "notifications": false,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/557264617802444801/aTuvx-fB.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/557264617802444801/aTuvx-fB.jpeg",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2466477985/1416294640",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/777700647932166144/jYwzeVd7_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/777700647932166144/jYwzeVd7_normal.jpg",
+                "profile_link_color": "F5ABB5",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "nanslay",
+                "statuses_count": 2015,
+                "time_zone": "Arizona",
+                "url": null,
+                "utc_offset": -25200,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 14:17:44 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            20,
+                            33
+                        ],
+                        "text": "smithcollege"
+                    },
+                    {
+                        "indices": [
+                            34,
+                            46
+                        ],
+                        "text": "MountainDay"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 783672526312509440,
+            "id_str": "783672526312509440",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "The hardest part of #smithcollege #MountainDay is finding the perfect fall outfit",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Feb 28 21:43:48 +0000 2010",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "|#intern at @tallainc  | Engineering Major | #Smithie 2017 @smithcollege",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 480,
+                "follow_request_sent": false,
+                "followers_count": 176,
+                "following": false,
+                "friends_count": 417,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 118497967,
+                "id_str": "118497967",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 7,
+                "location": "",
+                "name": "Maureen Leonard",
+                "notifications": false,
+                "profile_background_color": "EDECE9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/118497967/1432413704",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/743064058270748672/nF8Gb5W8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/743064058270748672/nF8Gb5W8_normal.jpg",
+                "profile_link_color": "088253",
+                "profile_sidebar_border_color": "D3D2CF",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "BeanyMo",
+                "statuses_count": 469,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": null,
+                "utc_offset": -14400,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 12:45:55 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            52,
+                            65
+                        ],
+                        "text": "smithcollege"
+                    },
+                    {
+                        "indices": [
+                            66,
+                            78
+                        ],
+                        "text": "mountainday"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/presmccartney/\u2026",
+                        "expanded_url": "https://twitter.com/presmccartney/status/783622886003208192",
+                        "indices": [
+                            79,
+                            102
+                        ],
+                        "url": "https://t.co/SIclGIIlRM"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 783649418146963456,
+            "id_str": "783649418146963456",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "quoted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Oct 05 11:00:29 +0000 2016",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 151,
+                "favorited": false,
+                "geo": null,
+                "id": 783622886003208192,
+                "id_str": "783622886003208192",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "retweet_count": 55,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "HAPPY MOUNTAIN DAY! Wasn\u2019t it worth the wait? Donuts and cider in front of my house at 8:30!",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Wed Jan 02 20:57:15 +0000 2013",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Smith College President Kathleen McCartney.",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "smith.edu/president/",
+                                    "expanded_url": "http://www.smith.edu/president/",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ],
+                                    "url": "http://t.co/hEOFmVZ30U"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 1438,
+                    "follow_request_sent": false,
+                    "followers_count": 3495,
+                    "following": false,
+                    "friends_count": 54,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 1056076428,
+                    "id_str": "1056076428",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 66,
+                    "location": "Smith College",
+                    "name": "Kathleen McCartney",
+                    "notifications": false,
+                    "profile_background_color": "EDECE9",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056076428/1474305679",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/626777225224978434/mHwWk6rE_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/626777225224978434/mHwWk6rE_normal.jpg",
+                    "profile_link_color": "088253",
+                    "profile_sidebar_border_color": "D3D2CF",
+                    "profile_sidebar_fill_color": "E3E2DE",
+                    "profile_text_color": "634047",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "presmccartney",
+                    "statuses_count": 868,
+                    "time_zone": "Atlantic Time (Canada)",
+                    "url": "http://t.co/hEOFmVZ30U",
+                    "utc_offset": -10800,
+                    "verified": false
+                }
+            },
+            "quoted_status_id": 783622886003208192,
+            "quoted_status_id_str": "783622886003208192",
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Oh how I wish I could join you! Happy mountain day! #smithcollege #mountainday https://t.co/SIclGIIlRM",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Jan 04 02:10:58 +0000 2007",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "I am a generalist in a specialist world. Tweets are my own",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 805,
+                "follow_request_sent": false,
+                "followers_count": 877,
+                "following": false,
+                "friends_count": 1110,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 522943,
+                "id_str": "522943",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 72,
+                "location": "Boston, MA",
+                "name": "Pippa Shulman",
+                "notifications": false,
+                "profile_background_color": "642D8B",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3577753089/3efe24ee6ea7f6b7fded59944815aa9a_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3577753089/3efe24ee6ea7f6b7fded59944815aa9a_normal.jpeg",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "65B0DA",
+                "profile_sidebar_fill_color": "7AC3EE",
+                "profile_text_color": "3D1957",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "drpippa",
+                "statuses_count": 4671,
+                "time_zone": "Eastern Time (US & Canada)",
+                "url": null,
+                "utc_offset": -14400,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 05 11:30:07 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            27,
+                            40
+                        ],
+                        "text": "smithcollege"
+                    },
+                    {
+                        "indices": [
+                            41,
+                            51
+                        ],
+                        "text": "tradition"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "instagram.com/p/BLLfr-SgYkU/",
+                        "expanded_url": "https://www.instagram.com/p/BLLfr-SgYkU/",
+                        "indices": [
+                            52,
+                            75
+                        ],
+                        "url": "https://t.co/CS1QR69W45"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 3,
+            "favorited": false,
+            "geo": null,
+            "id": 783630344524300288,
+            "id_str": "783630344524300288",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+   

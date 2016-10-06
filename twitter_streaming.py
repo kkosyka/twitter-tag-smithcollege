@@ -1,8 +1,9 @@
 # Import the necessary package to process data in JSON format
-try:
-    import json
-except ImportError:
-    import simplejson as json
+
+import json
+import simplejson as json
+
+import pickle
 
 # Import the necessary methods from "twitter" library
 from twitter import Twitter, OAuth, TwitterHTTPError, TwitterStream
@@ -20,6 +21,23 @@ twitter_stream = TwitterStream(auth=oauth)
 twitter = Twitter(auth=oauth)
 
 #Creates new file that will contain the most 30 recent tweets that contain #smithcollege
-newFile = "TAGsmithcollegeInTweet.txt" #example file
+newFile = "TAGSmithCollegeJSONFormat.txt" #example file
 newFile = open(newFile, 'w')
-newFile.write(str(twitter.search.tweets(q='#smithcollege', result_type='recent', lang='en', count=30)))
+
+json_input =  twitter.search.tweets(q='#smithcollege', result_type='recent', lang='en', count=20)
+json_input = json.dumps(json_input)
+
+ 
+try:
+    decoded = json.loads(json_input)
+ 
+    # pretty printing of json-formatted string
+    newFile.write( json.dumps(decoded, sort_keys=True, indent=4))
+ 
+    newFile.write( "JSON parsing example: ", decoded['one'])
+    newFile.write( "Complex JSON parsing example: ", decoded['two']['list'][1]['item'])
+
+except (ValueError, KeyError, TypeError):
+    newFile.write ( "JSON format error")
+
+
