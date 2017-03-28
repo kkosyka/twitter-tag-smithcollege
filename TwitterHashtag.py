@@ -1,7 +1,7 @@
 """
 Kalynn Kosyka
 Spatial Analysis Lab - Smith College
-March 8, 21017
+March 8, 2017
 TwitterHashtag.py uses TwitterAPI to access information about tweets that contain a specific hashtag, the program will use
 the data to input into a postgreSQL database (text, xcoor, ycoor, username, created, hashtags, twitterGeom (SRID 4326/GeoJSON)).
 External: Database will be connected to Smith's SAL GeoServer where the data will be linked with Leaflet.
